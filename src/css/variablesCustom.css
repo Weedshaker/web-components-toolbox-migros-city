@@ -10,7 +10,10 @@
   --color-disabled: #26b5e950;
   --color-hover: #26b4e9;
   --color-secondary: #0066cc;
-  --picture-scale-up-img-width: auto;
   --emotion-pictures-with-title-bg-line-height-secondary-custom: normal;
+  --emotion-pictures-with-title-bg-background-color-custom: transparent;
+  --header-default-background-color-custom: #ffffff;
+  --navigation-default-color-custom: #0066cc;
+  --picture-scale-up-img-width: auto;
 
 }
